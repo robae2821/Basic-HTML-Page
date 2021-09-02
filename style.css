@@ -1,4 +1,16 @@
 body{
-background-color: aquamarine;
+background-color: darkblue;
 
+}
+
+#one{
+    background-color:green;
+}
+
+.two{
+    background-color: red;
+}
+
+.three{
+    background-color: cornflowerblue;
 }
