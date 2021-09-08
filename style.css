@@ -14,3 +14,6 @@ background-color:grey;
 .three{
     background-color: cornflowerblue;
 }
+table, th, td {
+    border:3px double black;
+  }
